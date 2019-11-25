@@ -42,7 +42,7 @@ print(p2)
 
 // Define a protocol
 protocol MyProtocol {
-    // what methods are required@
+    // what methods are required
     func showMessage()
 
     // what properties?
